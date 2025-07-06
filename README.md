@@ -122,11 +122,13 @@ The application follows modern design principles with:
 4. Test thoroughly
 5. Submit a pull request
 
-##Live Deployment Link
+## Live Deployment Link
 https://ishita051.github.io/Task-Management-App-Reactjs
 
-##Website Overview
+## Website Overview
+![Screenshot 2025-07-06 230455](https://github.com/user-attachments/assets/9f940cb7-c532-42b2-b136-f51e63634b03)
 
+![Screenshot 2025-07-06 230512](https://github.com/user-attachments/assets/31d1133e-8e61-4c5b-8f61-0e84f78f21df)
 
 ## License
 
